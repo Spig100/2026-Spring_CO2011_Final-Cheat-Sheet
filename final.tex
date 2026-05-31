@@ -1,0 +1,63 @@
+\documentclass[UTF8, a4paper]{ctexart}
+
+\usepackage{titling}
+
+\setlength{\droptitle}{-2cm} % 1. 把整個標題區塊往上移 2 公分（砍掉頂部留白）
+
+\pretitle{\begin{center}\large\bfseries} % 2. 縮小標題字體（改為 \large）
+\posttitle{\end{center}\vskip 0.2em}     %    並把標題跟作者的間距縮短
+
+\preauthor{\begin{center}\small}          % 3. 縮小作者字體
+\postauthor{\end{center}\vskip 0.2em}     %    並把作者跟日期的間距縮短
+
+\predate{\begin{center}\small\color{gray}} % 4. 縮小日期字體並變灰色
+\postdate{\end{center}\vskip -1em}        %    把整個maketitle最後的留白砍掉
+
+\usepackage[a4paper, margin=1cm, includeheadfoot]{geometry}
+
+\usepackage[most]{tcolorbox}
+\usepackage{multicol}
+
+
+\title{工程數學－微分方程 (CO2011) \\ 114 學年度期末考A速查表 \\\ \small{國立中央大學通訊工程學系} \\ \small{§§ 4-2 - 4-4, §§ 4-6 - 4-7, §§ 7-1 - 7-5 \\ \textit{Differential Equations with Boundary-Value Problems} 9/e Metric Version by Dennis G. Zill}}
+\date{中華民國115年6月5日}
+\author{林郁翔（通訊工程學系119級）}
+
+\begin{document}
+\maketitle
+
+\zihao{-5}
+
+\part{解題導向技巧整理}
+
+\begin{multicols}{3}
+
+\section{高階（常）微分方程（Chapter 4）} 	
+
+\subsection{降階法 （§4-2）}
+
+\begin{tcolorbox}[size=small, title={\textbf{降階法}（已知一齊次解，待求另一解。）}]
+若有一在基本形式 (standard form) 的線性齊次微分方程
+$$
+y''+P(x)y'+Q(x)y=0
+$$
+與其一解 $y_1$，則另一解為
+$$
+y_2 = y_1(x) \int {\frac{e^{-\int{P(x)dx}}}{y_1^2(x)} dx}
+$$
+\end{tcolorbox}
+
+值得注意的是，若是有超越函數存在於積分之中，則可以
+$$
+y_2 = y_1(x) \int_{x_0}^{x} {\frac{e^{-\int{P(t)dt}}}{y_1^2(t)} dt}
+$$
+表達第二解，其中我們假定被積函數在閉區間 $[x_0, x]$ 連續。
+
+\subsection{常係數齊次線性微分方程}
+\begin{tcolorbox}
+
+\end{tcolorbox}
+
+\end{multicols}
+
+\end{document}
