@@ -1,31 +1,16 @@
 \documentclass[UTF8, a4paper]{ctexart}
 
-\usepackage{titling}
-
-\setlength{\droptitle}{-2cm} % 1. 把整個標題區塊往上移 2 公分（砍掉頂部留白）
-
-\pretitle{\begin{center}\large\bfseries} % 2. 縮小標題字體（改為 \large）
-\posttitle{\end{center}\vskip 0.2em}     %    並把標題跟作者的間距縮短
-
-\preauthor{\begin{center}\small}          % 3. 縮小作者字體
-\postauthor{\end{center}\vskip 0.2em}     %    並把作者跟日期的間距縮短
-
-\predate{\begin{center}\small\color{gray}} % 4. 縮小日期字體並變灰色
-\postdate{\end{center}\vskip -1em}        %    把整個maketitle最後的留白砍掉
-
 \usepackage[a4paper, margin=1cm, includeheadfoot]{geometry}
 
 \usepackage[most]{tcolorbox}
 \usepackage{multicol}
 
 
-\title{工程數學－微分方程 (CO2011) \\ 114 學年度期末考A速查表 \\\ \small{國立中央大學通訊工程學系} \\ \small{§§ 4-2 - 4-4, §§ 4-6 - 4-7, §§ 7-1 - 7-5 \\ \textit{Differential Equations with Boundary-Value Problems} 9/e Metric Version by Dennis G. Zill}}
+\title{工程數學－微分方程 (CO2011) \\ 114 學年度期末考A速查表 \\ \small{§§ 4-2 - 4-4, §§ 4-6 - 4-7, §§ 7-1 - 7-5 \\ \textit{Differential Equations with Boundary-Value Problems} 9/e Metric Version by Dennis G. Zill}}
 \date{中華民國115年6月5日}
-\author{林郁翔（通訊工程學系119級）}
+\author{林郁翔\\國立中央大學通訊工程學系119級}
 
 \begin{document}
-\maketitle
-
 \zihao{-5}
 
 \part{解題導向技巧整理}
@@ -34,7 +19,9 @@
 
 \section{高階（常）微分方程（Chapter 4）} 	
 
-\subsection{降階法 （§4-2）}
+\subsection{降階法求齊次解 （§4-2）}
+
+利用降階法，可通過\textbf{已知的一解}，推得另外一解。
 
 \begin{tcolorbox}[size=small, title={\textbf{降階法}（已知一齊次解，待求另一解。）}]
 若有一在基本形式 (standard form) 的線性齊次微分方程
@@ -53,10 +40,36 @@ y_2 = y_1(x) \int_{x_0}^{x} {\frac{e^{-\int{P(t)dt}}}{y_1^2(t)} dt}
 $$
 表達第二解，其中我們假定被積函數在閉區間 $[x_0, x]$ 連續。
 
-\subsection{常係數齊次線性微分方程}
-\begin{tcolorbox}
-
+\subsection{常係數齊次線性微分方程 (§4-2)}
+對於常係數齊次線性微分方程而言，可通過利用\textbf{特徵方程式}將問題化為\textbf{簡單代數問題}，再用解得的代數 $m$ 來推斷解的情形。
+\begin{tcolorbox}[size=small, title={\textbf{特徵方程式} (auxiliary equation) }]
+對 $n$ 階常係數線性齊次微分方程
+$$
+a_ny^{(n)}+a_{n-1}y^{(n-1)}+\cdots+a_0y=0
+$$
+而言，我們可以通過其\textbf{特徵方程式}
+$$
+a_nm^n+a_{n-1}m^{n-1}+\cdots+a_1m+a_0=0
+$$
+的解 $m$ 求得對應的微分方程解。解的情形如下所示：
+\begin{itemize}
+\item \textbf{實根}：該 $m_i$ 對應的解項為 $c_ie^{m_ix}$。
+\item \textbf{重根}：該 $m_i$ 若為 $n$ 重根，則對應的解項為 $c_1e^{m_ix}+c_2xe^{m_ix}+\cdots+c_nx^n{m_ix}$。
+\item \textbf{虛根}：該 $m_i$ 為兩共軛虛根 $\alpha\pm i\beta$時，其解項依據尤拉公式可得為 $e^{\alpha x} (c_1 \cos{\beta x}+c_2 \sin{\beta x})$。
+\end{itemize}
 \end{tcolorbox}
+此類方法中，我們解特徵方程需要使用到大量的\textbf{綜合除法}、 \textbf{十字交乘}及\textbf{公式解}。請熟練。
+\begin{tcolorbox}[size=small, title={一元二次方程的\textbf{公式解}}]
+對於一元二次方程式
+$$
+ax^2+bx+c=0
+$$
+，其通解為
+$$
+x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+$$
+\end{tcolorbox}
+
 
 \end{multicols}
 
