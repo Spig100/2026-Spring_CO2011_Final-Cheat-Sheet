@@ -1,21 +1,24 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.5.31)  1 JUN 2026 00:16
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.6.1)  1 JUN 2026 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./final.tex
 (final.tex
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-29>
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexart.cls
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexbackend
-.cfg
+L3 programming layer <2025-12-24>
+
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexart
+.cls
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\
+ctexbackend.cfg
 File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2025-12-29 L3 programming layer (loader) 
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\exp
+l3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
-ex.def
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3
+backend-xetex.def
 File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count271
 \g__pdfannot_backend_int=\count272
@@ -23,16 +26,21 @@ File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
 ))
 Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (C
 TEX)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhook.sty
+
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhoo
+k.sty
 Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexpatch.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexpat
+ch.sty
 Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.
+sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.
+def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 LaTeX Encoding Info:    Redeclaring text command \capitalcedilla (encoding TS1)
@@ -296,12 +304,16 @@ t line 194.
 \g__ctex_section_depth_int=\count275
 \g__ctex_font_size_int=\count276
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexopts.cf
-g
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\
+ctexopts.cfg
 File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
-) (C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/base\article
+.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.
+clo
 File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count277
@@ -316,15 +328,16 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen149
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex/engine\ctex-engine
--xetex.def
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex/engine\
+ctex-engine-xetex.def
 File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJ
+K.sty
 Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xt
-emplate.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/x
+template\xtemplate.sty
 Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
 )
 \l__xeCJK_tmp_int=\count285
@@ -388,15 +401,16 @@ LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
 \l__xeCJK_verb_case_int=\count296
 \l__xeCJK_verb_exspace_skip=\skip57
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fon
+tspec.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/x
+parse\xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
 Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
-.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fon
+tspec-xetex.sty
 Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count297
@@ -413,11 +427,15 @@ X
 \l__fontspec_tmpa_dim=\dimen177
 \l__fontspec_tmpb_dim=\dimen178
 \l__fontspec_tmpc_dim=\dimen179
- (C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc
+.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
-) (C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fon
+tspec.cfg)))
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJ
+K.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 ))
 \ccwd=\dimen180
@@ -425,79 +443,50 @@ File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 )
 \l__ctex_ziju_dim=\dimen181
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhn
+umber.sty
 Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
 \l__zhnum_scale_int=\count308
 \l__zhnum_tmp_int=\count309
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber-utf8.
-cfg
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhn
+umber-utf8.cfg
 File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
 ))
 \l__ctex_heading_skip=\skip59
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex/scheme\ctex-scheme
--chinese-article.def
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex/scheme\
+ctex-scheme-chinese-article.def
 File: ctex-scheme-chinese-article.def 2022/07/14 v2.5.10 Chinese scheme for art
 icle (CTEX)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex-name-u
-tf8.cfg
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\
+ctex-name-utf8.cfg
 File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctex-c5size.clo
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctex-c5
+size.clo
 File: ctex-c5size.clo 2022/07/14 v2.5.10 c5size option (CTEX)
-)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex/fontset\ctex-fonts
-et-windows.def
-File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTE
-X)
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "KaiTi/B" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "SimHei/I" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "SimSun/BI" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'SimSun(0)' created for font 'SimSun' with
-(fontspec)             options
-(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
-
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex.cfg
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\
+ctex.cfg
 File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geo
+metry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\key
+val.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvt
+ex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifte
+x.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count310
@@ -513,69 +502,76 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutvoffset=\dimen189
 \Gm@dimlist=\toks18
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geo
+metry.cfg))
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+olorbox.sty
 Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
-sty
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
-y
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontend
+layer\tikz.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclay
+er\pgf.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgfrcs.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-common.tex
 \pgfutil@everybye=\toks19
 \pgfutil@tempdima=\dimen190
 \pgfutil@tempdimb=\dimen191
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--latex.def
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-latex.def
 \pgfutil@abb=\box56
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
-code.tex
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfrcs.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.re
+vision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
 Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
-sty
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclay
+er\pgfcore.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tri
+g.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 106.
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def
+\xetex.def
 File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen192
 \Gin@req@width=\dimen193
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
-sty
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemla
+yer\pgfsys.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks20
 \pgfkeys@temptoks=\toks21
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-libraryfiltered.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks22
 ))
 \pgf@x=\dimen194
@@ -599,44 +595,48 @@ libraryfiltered.code.tex
 \t@pgf@tokc=\toks25
 \pgf@sys@id@count=\count317
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
-fg
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-xetex.def
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-xetex.def
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys-xetex.def
 File: pgfsys-xetex.def 2025-08-29 v3.1.11a (3.1.11a)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-dvipdfmx.def
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys-dvipdfmx.def
 File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-common-pdf.def
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 )
 \pgfsys@objnum=\count318
 )))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-ssoftpath.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count319
 \pgfsyssoftpath@bigbuffer@items=\count320
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-sprotocol.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolo
+r.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 274.
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mat
+hcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
@@ -646,16 +646,16 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-e.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
-code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
-r.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmath.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathutil.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathparser.code.tex
 \pgfmath@dimen=\dimen260
 \pgfmath@count=\count321
 \pgfmath@box=\box57
@@ -663,34 +663,34 @@ r.code.tex
 \pgfmath@stack@operand=\toks27
 \pgfmath@stack@operation=\toks28
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.basic.code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.trigonometric.code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.random.code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.comparison.code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.base.code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.round.code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.misc.code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.integerarithmetics.code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
-code.tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
-.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.basic.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.trigonometric.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.random.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.comparison.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.base.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.round.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.misc.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.integerarithmetics.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathcalc.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count322
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
-tex)
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epoints.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfint.code.tex)
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen261
 \pgf@picmaxx=\dimen262
@@ -707,129 +707,130 @@ File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@zx=\dimen273
 \pgf@zy=\dimen274
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathconstruct.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen275
 \pgf@path@lasty=\dimen276
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathusage.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen277
 \pgf@shorten@start@additional=\dimen278
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-escopes.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box58
 \pgf@hbox=\box59
 \pgf@layerbox@main=\box60
 \pgf@picture@serial@count=\count323
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-egraphicstate.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen279
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransformations.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen280
 \pgf@pt@y=\dimen281
 \pgf@pt@temp=\dimen282
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-equick.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eobjects.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathprocessing.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-earrows.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen283
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eshade.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen284
 \pgf@sys@shading@range@num=\count324
 \pgf@shadingcount=\count325
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eimage.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eexternal.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box61
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-elayers.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransparency.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epatterns.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-erdf.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-shapes.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box62
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-plot.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-0-65.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatib
+ility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen285
 \pgf@nodesepend=\dimen286
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-1-18.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatib
+ility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
-y
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
-ty
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
-code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgffor.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgfkeys.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeys.code.tex))
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgf
+math.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmath.code.tex))
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen287
 \pgffor@skip=\dimen288
 \pgffor@stack=\toks29
 \pgffor@toks=\toks30
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z\tikz.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz\tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryplothandlers.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count326
 \pgfplotmarksize=\dimen289
@@ -851,8 +852,8 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikznumberofcurrentchild=\count329
 \tikz@fig@count=\count330
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-matrix.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count331
 \pgfmatrixcurrentcolumn=\count332
@@ -860,26 +861,29 @@ File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 \tikz@expandcount=\count334
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarytopaths.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbat
+im.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks31
 \verbatim@line=\toks32
 \verbatim@in@stream=\read3
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/environ\envi
+ron.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
-ty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\t
+rimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks33
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\eto
+olbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count335
 )
@@ -897,44 +901,47 @@ Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \tcb@temp=\box74
 \tcb@temp=\box75
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
-e.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+braster.code.tex
 Library (tcolorbox): 'tcbraster.code.tex' version '6.9.0'
 \c@tcbrastercolumn=\count339
 \c@tcbrasterrow=\count340
 \c@tcbrasternum=\count341
 \c@tcbraster=\count342
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
-.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '6.9.0'
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image
-.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tik
+zfill.image.sty
 Package: tikzfill.image 2026/04/23 v1.2.0 Image filling library for TikZ
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfil
-l.image.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tik
+zlibraryfill.image.code.tex
 File: tikzlibraryfill.image.code.tex 2026/04/23 v1.2.0 Image filling library
 \l__tikzfill_tmpa_dim=\dimen299
 \l__tikzfill_tmpb_dim=\dimen300
 \l__tikzfill_img_box=\box76
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
-w.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.9.0'
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
-code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bbreakable.code.tex
 Library (tcolorbox): 'tcbbreakable.code.tex' version '6.9.0'
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfco
+l.sty
 Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\lt
+xcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\
+infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdfcol Info: Interface disabled because of missing PDF mode of pdfTeX.
@@ -944,31 +951,38 @@ Package pdfcol Info: pdfTeX's color stacks are not available.
 \tcb@totalupperbox=\box78
 \tcb@totallowerbox=\box79
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
-.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bhooks.code.tex
 Library (tcolorbox): 'tcbhooks.code.tex' version '6.9.0'
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
-ode.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+btheorems.code.tex
 Library (tcolorbox): 'tcbtheorems.code.tex' version '6.9.0'
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsm
+ath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip60
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amst
+ext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsg
+en.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks34
 \ex@=\dimen301
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsb
+sy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen302
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amso
+pn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count343
@@ -1019,22 +1033,24 @@ LaTeX Info: Redefining \Relbar on input line 970.
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
 ))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
-de.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bfitting.code.tex
 Library (tcolorbox): 'tcbfitting.code.tex' version '6.9.0'
 \tcbfitdim=\dimen310
 \tcb@lowerfitdim=\dimen311
 \tcb@upperfitdim=\dimen312
 \tcb@cur@hbadness=\count355
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsut
-f8.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+blistingsutf8.code.tex
 Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.9.0'
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
-ode.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+blistings.code.tex
 Library (tcolorbox): 'tcblistings.code.tex' version '6.9.0'
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.sty
 \lst@mode=\count356
 \lst@gtempboxa=\box82
 \lst@token=\toks39
@@ -1048,22 +1064,25 @@ Library (tcolorbox): 'tcblistings.code.tex' version '6.9.0'
 \lst@lineno=\count361
 \lst@maxwidth=\dimen316
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+patch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+misc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 \c@lstnumber=\count362
 \lst@skipnumbers=\count363
 \lst@framebox=\box83
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.cfg
 File: listings.cfg 2025/11/14 1.11b listings configuration
 ))
 Package: listings 2025/11/14 1.11b (Carsten Heinz)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK-listings.
-sty
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJ
+K-listings.sty
 Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count364
 \l__xeCJK_listings_flag_int=\count365
@@ -1075,12 +1094,12 @@ Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
         2025/11/14 1.11b (Carsten Heinz)
     so I'm assuming it got fixed.
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
-re.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+blistingscore.code.tex
 Library (tcolorbox): 'tcblistingscore.code.tex' version '6.9.0'
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
-.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bprocessing.code.tex
 Library (tcolorbox): 'tcbprocessing.code.tex' version '6.9.0'
 )
 \c@tcblisting=\count366
@@ -1088,30 +1107,32 @@ Library (tcolorbox): 'tcbprocessing.code.tex' version '6.9.0'
 Package tcolorbox Info: Library `listingsutf8' is compatible with pdftex only. 
 Library `listings` is loaded instead. on input line 29.
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.c
-ode.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bexternal.code.tex
 Library (tcolorbox): 'tcbexternal.code.tex' version '6.9.0'
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.c
-ode.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bmagazine.code.tex
 Library (tcolorbox): 'tcbmagazine.code.tex' version '6.9.0'
 )
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.c
-ode.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bvignette.code.tex
 Library (tcolorbox): 'tcbvignette.code.tex' version '6.9.0'
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryfadings.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryfadings.code.tex
 File: tikzlibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryfadings.code.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies\pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
-(C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.cod
-e.tex
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bposter.code.tex
 Library (tcolorbox): 'tcbposter.code.tex' version '6.9.0'
-)) (C:\Users\spig1\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+))
+(C:\Users\spig100-eecesnmg\AppData\Local\Programs\MiKTeX\tex/latex/tools\multic
+ol.sty
 Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \c@tracingmulticols=\count367
 \mult@box=\box84
@@ -1182,25 +1203,45 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \mc@col@check@num=\count376
 \g__mc_curr_col_int=\count377
 )
-(final.aux)
+
+Package fontspec Info: 
+(fontspec)             Font family 'NotoSerifTC-Regular.ttf(0)' created for
+(fontspec)             font 'NotoSerifTC-Regular.ttf' with options
+(fontspec)             [Script={CJK},UprightFont={NotoSerifTC-Regular.ttf},Bold
+Font={NotoSerifTC-Bold.ttf},ItalicFont={NotoSerifTC-Light.ttf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[NotoSerifTC-Regular.ttf]/OT:script=hani;language=df
+lt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[NotoSerifTC-Bold.ttf]/OT:script=hani;language=dflt;
+"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[NotoSerifTC-Light.ttf]/OT:script=hani;language=dflt
+;"
+
+ (final.aux)
 \openout1 = `final.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -1208,56 +1249,56 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 8.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 8.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 8.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 8.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 8.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 8.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 8.
-LaTeX Font Info:    Redeclaring math accent \check on input line 8.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 8.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 8.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 8.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 8.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 14.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 14.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 14.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 14.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 14.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 14.
+LaTeX Font Info:    Redeclaring math accent \check on input line 14.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 14.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 8.
+(Font)              `operators' in the math version `normal' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 8.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 14.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 8.
+(Font)              `operators' in the math version `bold' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 8.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 8.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 8.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 8.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 8.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 8.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 8.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 8.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 8.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 8.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1294,6 +1335,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count378
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+[]\TU/NotoSerifTC-Regular.ttf(0)/b/n/9.03374 實 根\TU/NotoSerifTC-Regular.ttf(0)/
+m/n/9.03374 ：|  該 $\OML/cmm/m/it/9.03374 m[]$ \TU/NotoSerifTC-Regular.ttf(0)/m/
+n/9.03374 對 應 的 解 項 為
+ []
+
 [1
 
 ] (final.aux)
@@ -1303,11 +1351,11 @@ L3 programming layer <2022/08/05>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 25789 strings out of 402987
- 627211 string characters out of 5448524
- 1086801 words of memory out of 5000000
- 54108 multiletter control sequences out of 15000+600000
- 632073 words of font info for 77 fonts, out of 8000000 for 9000
+ 25745 strings out of 402987
+ 630683 string characters out of 5446248
+ 1086466 words of memory out of 5000000
+ 54073 multiletter control sequences out of 15000+600000
+ 632049 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  116i,6n,121p,452b,760s stack positions out of 10000i,1000n,20000p,200000b,200000s
 

@@ -1,9 +1,15 @@
-\documentclass[UTF8, a4paper]{ctexart}
+\documentclass[UTF8, a4paper, fontset=none]{ctexart}
 
 \usepackage[a4paper, margin=1cm, includeheadfoot]{geometry}
-
 \usepackage[most]{tcolorbox}
 \usepackage{multicol}
+
+\setCJKmainfont[
+	UprightFont	=	NotoSerifTC-Regular.ttf,
+	BoldFont	=	NotoSerifTC-Bold.ttf,
+	ItalicFont	=	NotoSerifTC-Light.ttf
+]{NotoSerifTC-Regular.ttf}
+\setCJKsansfont{Noto Sans TC}
 
 \begin{document}
 \zihao{-5}
@@ -64,6 +70,7 @@ $$
 x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 $$
 \end{tcolorbox}
+
 
 
 \end{multicols}
